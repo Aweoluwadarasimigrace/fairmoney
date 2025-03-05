@@ -612,6 +612,7 @@ header {
     color: #404B65;
     margin-bottom: 20px;
     line-height: 30.0001px;
+    max-width: 497px;
 }
 .button-flex img:hover{
         animation-name: buttonup;
@@ -819,7 +820,7 @@ header {
     }
 
     .text-wrapper p {
-        font-size: 18px;
+        font-size: 16px;
         font-family: Inter, sans-serif;
         font-weight: 400;
         color: #404B65;
@@ -830,11 +831,11 @@ header {
     .container {
         position: relative;
         width: 100%;
-        height: 470px;
+        height: 430px;
     }
 
     .hero-section {
-        padding: 20px 40px;
+        padding: 0px 40px;
         position: relative;
         background-color: white;
     }
@@ -876,12 +877,17 @@ header {
     }
 
     .text-wrapper p {
-        font-size: 14px;
+        font-size: 13px;
         font-family: Inter, sans-serif;
         font-weight: 400;
         color: #404B65;
-        margin-bottom: 10px;
+        margin-bottom: 6px;
         line-height: 20px;
+    }
+    .container {
+        position: relative;
+        width: 100%;
+        height: 400px;
     }
 }
 
@@ -891,11 +897,11 @@ header {
         gap: 2em;
     }
 
-    .container {
+    /* .container {
         position: relative;
         width: 100%;
-        height: 500px;
-    }
+        height: 400px;
+    } */
 
     .scan-box {
         background-color: white;
@@ -909,7 +915,7 @@ header {
     }
 
     .hero-section {
-        padding: 20px 10px;
+        padding: 0px 10px;
         padding-right: 10px;
         position: relative;
         background-color: white;
