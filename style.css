@@ -532,13 +532,9 @@ header {
 
 @media(max-width:991px) {
     header {
-        padding: 10px 20px;
+        padding: 5px 20px;
         width: 100%;
         background-color: white;
-        position: fixed;
-        top: 0;
-        left: 0;
-          z-index: 90;
     }
 
     .content-wrapper {
