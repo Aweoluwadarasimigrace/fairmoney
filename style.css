@@ -1423,7 +1423,7 @@ margin-bottom: 10px;
      max-width: 1600px;
         margin-left: auto;
         margin-right: auto;
-        padding: 30px;
+        padding: 0px 30px;
 }
 .scroll-box-header{
     text-align: center;
